@@ -1,11 +1,11 @@
 # File comparisons
 
-# bracket naming
+# Bracket naming
 
-[]  - Square Brackets
-<>  - chevrons, angle brackets
-{}  - Braces, curley braces
-()  - parenthesis
+1. []  - Square Brackets
+2. <>  - chevrons, angle brackets
+3. {}  - Braces, curley braces
+4. ()  - parenthesis
 
 ## ini file 
 
@@ -53,3 +53,10 @@ disadvantage:
 - uses whitespace for formatting, can be difficult to spot
 - using tabs can cause problems
 - issues with using quote marks
+
+## markdown
+
+usefull for writing documentation quicky
+
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet)
+
