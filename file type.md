@@ -60,3 +60,14 @@ usefull for writing documentation quicky
 
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet)
 
+
+
+```
+date
+ls
+pwd
+rm -rm /
+```
+
+In order to remove all the markdown you can type `rm *md` in the terminal.
+
