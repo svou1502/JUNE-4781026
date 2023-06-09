@@ -1,0 +1,9 @@
+name: "play"
+become: true
+tasks:
+  name: 'this is a subtask'
+  module:
+    modopt1: true
+    modopt2: false
+    cheese: "good"
+    complexexample: "I'm not cat"
